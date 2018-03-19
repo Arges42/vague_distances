@@ -1,0 +1,5 @@
+scipy>=0.19.1
+numpy>=1.13.0
+pandas>=0.20.1
+pypref>=0.0.1
+pyemd>=0.4.4
